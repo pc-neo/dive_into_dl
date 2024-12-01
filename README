@@ -1,1 +1,5 @@
-GIT_AUTHOR_NAME="pc-neo" GIT_AUTHOR_EMAIL="pengchengneo@gmail.com"
+GIT_AUTHOR_NAME="pc-neo" \
+GIT_AUTHOR_EMAIL="pengchengneo@gmail.com" \
+GIT_COMMITTER_NAME="pc-neo" \
+GIT_COMMITTER_EMAIL="pengchengneo@gmail.com" \
+git commit -a -m "fix"
